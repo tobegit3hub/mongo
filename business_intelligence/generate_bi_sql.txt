@@ -1,0 +1,1 @@
+根据create table语句包含的表和schema信息，生成一些BI分析的SQL语句，可以统计用户数量、app数量等运营指标信息。
